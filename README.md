@@ -1,2 +1,3 @@
 # GRAD-778-Workshop-8-Repo
-The practice is part of the course
+This practice is part of the course
+I am Parmida, a Ph.D. student in civil engineering at UNR.
